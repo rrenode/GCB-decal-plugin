@@ -1,0 +1,85 @@
+{
+    "GCBOctaneHome": {
+		"BodyID": 23,
+		"SkinID": 8367,
+		"Chassis": {
+			"Diffuse": ""
+		},
+		"Body": {
+			"Diffuse": "",
+			"1_Diffuse_Skin": "oct_home_diffuse.png",
+			"2_Diffuse_Skin_Mask": "oct_ano.png",
+			"Skin": ""
+		}
+    },
+
+    "GCBOctaneAway": {
+		"BodyID": 23,
+		"SkinID": 8367,
+		"Chassis": {
+			"Diffuse": ""
+		},
+		"Body": {
+			"Diffuse": "",
+			"1_Diffuse_Skin": "oct_away_diffuse.png",
+			"2_Diffuse_Skin_Mask": "oct_ano.png",
+			"Skin": ""
+		}
+    },
+    
+    "GCBFennecHome": {
+		"BodyID": 4284,
+		"SkinID": 8363,
+		"Chassis": {
+			"Diffuse": ""
+		},
+		"Body": {
+			"Diffuse": "",
+			"1_Diffuse_Skin": "fen_home_diffuse.png",
+			"2_Diffuse_Skin_Mask": "fen_ano.png",
+			"Skin": ""
+		}
+    },
+
+    "GCBFennecAway": {
+		"BodyID": 4284,
+		"SkinID": 8363,
+		"Chassis": {
+			"Diffuse": ""
+		},
+		"Body": {
+			"Diffuse": "",
+			"1_Diffuse_Skin": "fen_away_diffuse.png",
+			"2_Diffuse_Skin_Mask": "fen_ano.png",
+			"Skin": ""
+		}
+    },
+
+    "GCBDominusHome": {
+		"BodyID": 403,
+		"SkinID": 8365,
+		"Chassis": {
+			"Diffuse": ""
+		},
+		"Body": {
+			"Diffuse": "",
+			"1_Diffuse_Skin": "dom_home_diffuse.png",
+			"2_Diffuse_Skin_Mask": "dom_ano.png",
+			"Skin": ""
+		}
+    },
+
+    "GCBDominusAway": {
+		"BodyID": 403,
+		"SkinID": 8365,
+		"Chassis": {
+			"Diffuse": ""
+		},
+		"Body": {
+			"Diffuse": "",
+			"1_Diffuse_Skin": "dom_away_diffuse.png",
+			"2_Diffuse_Skin_Mask": "dom_ano.png",
+			"Skin": ""
+		}
+    }
+}
