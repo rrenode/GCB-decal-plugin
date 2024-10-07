@@ -9,6 +9,9 @@
 *.sln.docstates
 *.pch
 *.ipch
+*.db-shm
+
+vcpkg
 
 # Windows image file caches
 Thumbs.db
